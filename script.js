@@ -684,5 +684,3 @@ document.addEventListener("DOMContentLoaded", () => {
   gameStatus = "setup";
   showDifficultySelector();
 });
-
-
